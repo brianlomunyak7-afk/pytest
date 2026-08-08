@@ -1,0 +1,4 @@
+fastapi
+httx
+pytest
+uvicorn
